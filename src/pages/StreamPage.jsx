@@ -10,8 +10,11 @@ const StreamPage = () => {
   return (
     <div>
       <Navbar/>
+
+      {/* Stream Page Start */}
         <div className=" w-full  mx-auto h-[85%] px-2 py-2" style={{backgroundColor: '#1b1818'}}>
 
+        {/* Comming Soon Heading */}
       <div className="flex items-start xl:items-center flex-col  xl:w-[1500px] justify-center md:items-center">
         <h1 className="bg-gradient-to-r from-lime-500 via-blue-500  to-rose-500 bg-clip-text text-transparent text-6xl font-[800] py-4 my-2">
           Coming Soon
@@ -77,6 +80,7 @@ const StreamPage = () => {
         </div>
       </div>
     </div>
+      {/* Stream Page End */}
     <Footer/>
         </div>
   );

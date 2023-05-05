@@ -56,6 +56,7 @@ const About = () => {
       <Headline />
       <Navbar />
     
+    {/* About Page Start */}
     <div className="w-full mx-auto h-[73%] xl:h-[75%] xl:px-12 px-6 py-1">
       {/* Header Section */}
       <img
@@ -81,6 +82,7 @@ const About = () => {
       <Roadmap/>
 
     </div>
+      {/* About Start End */}
     <Footer />
     </div>
   );

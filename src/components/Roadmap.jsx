@@ -3,12 +3,12 @@ import React from 'react'
 const Roadmap = () => {
   return (
     <div className="flex px-2 py-4 my-4">
+
+          {/* left Section */}
         <div className="z-10">
       <h1 className="text-2xl lg:text-5xl xl:text-[3.5rem]  uppercase font-bold text-white mb-4 xl:my-16">
         Roadmap
       </h1>
-
-      {/* left section */}
       <div className=" h-[370px] w-[140px] lg:w-[480px] xl:w-[650px] xl:h-[480px] text-white flex flex-col justify-between mt-14 lg:mt-16 xl:pt-[3.5rem] pt-7 lg:pt-8 pr-2">
         <div className='pt-3' >
           <h2 className="text-2xl lg:text-5xl xl:text-6xl font-bold">Connect with Games</h2>

@@ -10,11 +10,13 @@ import social4 from "../assets/Ellipse 42.png";
 const BackedBy = () => {
   return (
     <div className=" flex flex-col">
+
+          {/* Heading */}
         <h1 className="text-3xl lg:text-4xl xl:text-[3.2rem] text-white uppercase font-bold px-1 pt-4  z-10">
           Backed By
         </h1>
 
-
+          {/* Images */}
         <div className="z-10 flex items-center ml-[-14px] xl:ml-[-26px]">
           <img src={Microsoft} alt="/" className=" w-[180px] lg:w-[260px] xl:w-[290px]" />
           <img src={PedalStart} alt="/" className="w-[140px] lg:w-[220px] xl:w-[260px]"/>
