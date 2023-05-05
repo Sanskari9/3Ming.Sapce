@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c43e3c0.css",
+    "main.js": "/static/js/main.6f931a69.js",
+    "static/media/pic1.png": "/static/media/pic1.a3a4c93b184a104deafa.png",
+    "static/media/bg.jpg": "/static/media/bg.d510a52100c45da827f1.jpg",
+    "static/media/circle.png": "/static/media/circle.8fc0bbd92e1a69a8becb.png",
+    "static/media/pic 2.png": "/static/media/pic 2.895288afb1be0a1c1055.png",
+    "static/media/pic 3.png": "/static/media/pic 3.c783b9acf39607908a4e.png",
+    "static/media/microsoft.png": "/static/media/microsoft.879b3604c89ad0e7f885.png",
+    "static/media/3minglogo.png": "/static/media/3minglogo.05d9cac638ed37375cd3.png",
+    "static/media/3ming_logo.png": "/static/media/3ming_logo.8fc7f0444a6be8b84f50.png",
+    "index.html": "/index.html",
+    "main.9c43e3c0.css.map": "/static/css/main.9c43e3c0.css.map",
+    "main.6f931a69.js.map": "/static/js/main.6f931a69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c43e3c0.css",
+    "static/js/main.6f931a69.js"
+  ]
+}

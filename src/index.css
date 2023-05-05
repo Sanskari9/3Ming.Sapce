@@ -1,0 +1,185 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #141E30;
+    background: linear-gradient(to right, #1b1b27, #0c0e12, #0f0c29); }
+/* 
+.logo{
+    height: 60px;
+    width: 180px;
+}
+.card2{
+    width: 30%;
+}
+
+.card-img-top{
+    height: 300px;
+}
+
+.box-lo{
+    margin: 10px 50px;
+    border-color: rgb(209, 181, 181);
+    border-radius: 15px;
+    border: 10px;
+    background: rgb(0, 0, 0);
+}
+
+.box-price{
+    width: 89vw;
+    margin: auto;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #000;
+}
+
+.cont{
+
+    margin: 10px 40px;
+}
+
+.search1{
+    background-color:rgb(0, 0, 0);
+    border: 3px solid rgb(137, 228, 236);
+}
+
+#navbarsExample04{
+    font-size: larger;
+    text-shadow: 2px;
+    background-color: black;
+}
+
+.upcomming,.trending {
+    font-weight: 900;
+    text-transform: Uppercase;
+    margin-bottom: .5em;
+    font-family: 'Rubik', sans-serif;
+    font-size: 2rem;
+    color: #E4E5E6; 
+}
+    
+
+  .upcomming, .trending, .card2 {
+    text-align: center;
+    position: relative;
+    background: linear-gradient(to right, #fdfdfd, #8b9bba, #bdb7fa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+.card-title{
+    font-weight: 900;
+    text-transform: Uppercase;
+    margin-bottom: .5em;
+    margin-left: 0.5rem;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.5rem;
+    color: #161718;
+}
+
+.card-title1{
+    font-weight: 900;
+    text-transform: Uppercase;
+    font-size: 1.5rem;
+}
+  
+  @media screen and (max-width: 768px) {
+    .upcomming, .trending {
+      font-size: 1rem;
+    }
+    .click-des{
+        font-weight: 200;
+        font-size: 0.55rem;
+    }
+    .card-title1{
+        font-weight: 700;
+        text-transform: Uppercase;
+        font-size: 1.0rem;
+    }
+    .card-title{
+        font-weight: 700;
+        text-transform: Uppercase;
+        text-align: center;
+        margin-bottom: .5em;
+        margin-left: 0.5rem;
+        font-family: 'Rubik', sans-serif;
+        font-size: 1.0rem;
+        color: #161718;
+    }
+    .card2{
+        width: 110%;
+        text-align: left;
+        margin: 5px 5px;
+        padding: 5px 5px;
+        border-radius: 15px;
+        border: 10px;
+    }
+    .box-lo{
+        margin: 10px 10px;
+        border-color: rgb(209, 181, 181);
+        border-radius: 15px;
+        border: 10px;
+        background: rgb(38, 34, 54);
+    }
+    .imageSlider{
+        width: 300px;
+
+    }
+    .card-img-top{
+        height: 200px;
+    }
+    .box-price{
+        width:100vw;
+        padding: 0px 10px 60px 5px;
+        height: 25vh;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        background-color: #000;
+    }
+    .logo{
+        height: 60px;
+        width: 140px;
+    }
+ 
+    #navbarsExample04{
+        font-size: 15px;
+        text-shadow: 2px;
+        text-align: center;
+        background-color: black;
+    }
+    .price-abt{
+        font-size: 20px;
+        text-align: center;
+    } 
+    .pricing-component{
+        width: 250px;
+    }
+
+    .play_now{
+        margin-left: 15%;
+      }
+  }
+.click-des{
+    font-weight: 500;
+    font-size: 1.0rem;
+}
+
+button{
+  padding: 10px 10px 10px 10px;
+  border: 10px solid rgb(35, 21, 96);
+  border-radius: 30px;
+  align-items: center;
+}
+.play_now{
+  margin-left: 35%;
+}
+
+.about{
+    margin-top: 100px;
+    margin-bottom: 600px;
+} */
