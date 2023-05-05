@@ -14,10 +14,12 @@ function Footer() {
          
 
 <div className="flex p-2 pt-2 justify-center">
+        {/* logo */}
         <img src={Logo1} alt="" className="h-[84px] pb-1" />
 
-        
+       
       </div>
+             {/* Community Column */}
           <div className="hidden md:flex flex-col mx-24 pt-4">
             <p className="mb-1">
               <a href="#!" className="text-white dark:text-neutral-200">
@@ -36,6 +38,7 @@ function Footer() {
             </p>
           </div>
 
+            {/* About us column */}
           <div className="hidden md:flex flex-col mx-4">
             <p className="mb-1 pt-4">
               <a href="#!" className="text-white dark:text-neutral-200">
@@ -53,6 +56,8 @@ function Footer() {
               </a>
             </p>
           </div>
+
+
           <div className="sm:flex flex-row md:hidden">
             <div className="flex flex-row space-x-4 justify-center" >
             <p className="mb-1">
@@ -71,6 +76,8 @@ function Footer() {
               </a>
             </p>
             </div>
+
+            
             <div className="flex flex-row space-x-4 justify-center" >
             <p className="mb-1">
               <a href="#!" className="text-white dark:text-neutral-200">
